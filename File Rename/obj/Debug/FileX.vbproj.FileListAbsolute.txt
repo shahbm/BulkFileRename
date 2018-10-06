@@ -1,0 +1,12 @@
+H:\Professional\My Projects\FileX\File Rename\bin\Debug\FileX.exe.config
+H:\Professional\My Projects\FileX\File Rename\bin\Debug\FileX.exe
+H:\Professional\My Projects\FileX\File Rename\bin\Debug\FileX.pdb
+H:\Professional\My Projects\FileX\File Rename\bin\Debug\FileX.xml
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.vbprojResolveAssemblyReference.cache
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.FormMain.resources
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.Resources.resources
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.vbproj.GenerateResource.cache
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.vbproj.CoreCompileInputs.cache
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.exe
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.xml
+H:\Professional\My Projects\FileX\File Rename\obj\Debug\FileX.pdb

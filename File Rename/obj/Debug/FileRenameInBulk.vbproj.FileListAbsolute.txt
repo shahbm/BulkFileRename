@@ -1,0 +1,12 @@
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\bin\Debug\FileRenameInBulk.exe.config
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\bin\Debug\FileRenameInBulk.exe
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\bin\Debug\FileRenameInBulk.pdb
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\bin\Debug\FileRenameInBulk.xml
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.vbprojResolveAssemblyReference.cache
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.FormFileRename.resources
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.Resources.resources
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.vbproj.GenerateResource.cache
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.vbproj.CoreCompileInputs.cache
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.exe
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.xml
+C:\Users\shahb\AppData\Local\Temporary Projects\FileRenameInBulk\obj\Debug\FileRenameInBulk.pdb

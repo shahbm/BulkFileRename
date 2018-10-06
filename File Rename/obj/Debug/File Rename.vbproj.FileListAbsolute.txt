@@ -1,0 +1,23 @@
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\bin\Debug\File Rename.exe.config
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\bin\Debug\File Rename.exe
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\bin\Debug\File Rename.pdb
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\bin\Debug\File Rename.xml
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\FileRenameInBulk.FormFileRename.resources
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\FileRenameInBulk.Resources.resources
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\File Rename.vbproj.GenerateResource.cache
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\File Rename.vbproj.CoreCompileInputs.cache
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\File Rename.exe
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\File Rename.xml
+c:\users\shahb\onedrive\personal\documents\visual studio 2017\Projects\File Rename\File Rename\obj\Debug\File Rename.pdb
+H:\Professional\My Projects\BulkFileRename\File Rename\bin\Debug\File Rename.exe.config
+H:\Professional\My Projects\BulkFileRename\File Rename\bin\Debug\File Rename.exe
+H:\Professional\My Projects\BulkFileRename\File Rename\bin\Debug\File Rename.pdb
+H:\Professional\My Projects\BulkFileRename\File Rename\bin\Debug\File Rename.xml
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.vbprojResolveAssemblyReference.cache
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\FileRenameInBulk.FormMain.resources
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\FileRenameInBulk.Resources.resources
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.vbproj.GenerateResource.cache
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.vbproj.CoreCompileInputs.cache
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.exe
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.xml
+H:\Professional\My Projects\BulkFileRename\File Rename\obj\Debug\File Rename.pdb
